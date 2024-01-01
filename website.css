@@ -1434,6 +1434,18 @@ img {
       height: 440px;
     }
 
+
+body {
+    background-color: #fff; /* Change to white background */
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); /* Add shadow effect */
+}
+
+form {
+    background-color: #fff; /* Change to white background */
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); /* Add shadow effect */
+}
+
+
     .nav_toogle{
       visibility: hidden;
     }
